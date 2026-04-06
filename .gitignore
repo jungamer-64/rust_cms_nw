@@ -1,4 +1,4 @@
-.github/instructions/
+.github/instructions
 # Build outputs
 /target/
 
@@ -23,5 +23,6 @@ Thumbs.db
 *~
 .codex
 .serena
+.codacy
 
 docs/product-direction
